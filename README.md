@@ -2,7 +2,6 @@
 
 MelioSMP is a whitelisted survival server on Minecraft Java Edition. 
 Here, you can find the repositories to our different projects.
-
 Public repositories are all open for contribution!
 All communication can be done via Issues and Pull Requests on GitHub.
 
