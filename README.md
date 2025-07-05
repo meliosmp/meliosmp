@@ -1,16 +1,17 @@
-## Hi there 👋
+# MelioSMP
 
-<!--
-**meliosmp/meliosmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MelioSMP is a whitelisted survival server on Minecraft Java Edition. 
+Here, you can find the repositories to our different projects.
 
-Here are some ideas to get you started:
+# Contribute
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Public repositories are all open for contribution!
+All communication can be done via Issues and Pull Requests on GitHub.
+
+# Community
+
+You can find our community in the Discord below.
+
+<a href="https://discord.gg/BYfFZgKXa6">
+  <img alt="MelioSMP Discord" src="https://discord.com/api/guilds/1220305758789435392/widget.png?style=banner2">
+</a>
